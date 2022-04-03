@@ -12,7 +12,7 @@ _<b><p align="center">This is the source code for my personal website.</p></b>_
 </p>
 
 <p align="center">
-<kbd><a href="http://anniew.xyz"><img src="https://telegra.ph/file/7574e627988cf001f44bf.png" width="700px" alt="landing page"></a></kbd>
+<kbd><a href="https://prabashwarar.github.io/"><img src="https://telegra.ph/file/7574e627988cf001f44bf.png" width="700px" alt="landing page"></a></kbd>
 </p>
 
 ### License
