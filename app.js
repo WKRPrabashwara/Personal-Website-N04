@@ -102,7 +102,7 @@ var mySwiper = new Swiper(".swiper-container", {
 
 
 // Disable copy content, prevent blacked out text, prevent "I" key, "J" key, "S" key + macOS, "U" key, "F12" key
-juery(document).ready(function(){
+jQuery(document).ready(function(){
   jQuery(function() {
         jQuery(this).bind("contextmenu", function(event) {
             event.preventDefault();
